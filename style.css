@@ -75,7 +75,7 @@ button:hover {
 .conteainer-text{
    padding: 150px 0 0 130px;  
 }
-.text h3{
+text h3{
     color: #fff;
     font-size: 15px;
 }
@@ -83,7 +83,7 @@ text h1{
     color: #fff;
     margin-top: 10px;
 }
-.text span{
+text span{
     color: #2ecc71;
 }
 .text p{
@@ -97,6 +97,6 @@ text h1{
     padding: 10px;
     margin-top: 5px;
 }
-.bt{
+.btn{
     margin-top: 10px;
 }
