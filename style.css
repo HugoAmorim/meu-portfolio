@@ -1,4 +1,6 @@
+@charset "UTF-8"; 
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Symbols:wght@300&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -36,11 +38,11 @@ header{
     font-weight: 300;
     cursor: pointer;
 }
-.cabeçalho-link a{
+.cabeçalho-link a {
     color: #fff;
-    font-size: 12px;
+    font-size: 13px;
 }
-.cabeçalho-link a :hover{
+.cabeçalho-link a:hover{
     color:#2ecc71;
     transition: 0.3s all;
 }
@@ -72,8 +74,9 @@ button:hover {
     color: #fff;
     transition: 0.5s;
 }
-.conteainer-text{
-   padding: 150px 0 0 130px;  
+.container-text{
+   padding: 120px 0 0 90px;
+   margin-left: 130px;  
 }
 .text h3{
     color: #fff;
